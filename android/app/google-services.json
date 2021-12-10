@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "38276936375",
+    "project_id": "app-contel",
+    "storage_bucket": "app-contel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38276936375:android:e58879b0b73967da089332",
+        "android_client_info": {
+          "package_name": "Robin.Job.Posts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38276936375-cdfr1vrpat33h4couigum70n5hmg5acj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9J9-4WDTTNHVSwa2Kgq9Vx8Ax2DMXP9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38276936375-cdfr1vrpat33h4couigum70n5hmg5acj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38276936375-bc6mckpa9iitr2h8u2jv5iom1euqkag1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Job.Posts"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38276936375:android:c978d6b242eb9d34089332",
+        "android_client_info": {
+          "package_name": "com.flutterflow.contelfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38276936375-s4q48jdf0pv26t14ceakq2hcqjsjgg2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.contelfirebase",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "38276936375-cdfr1vrpat33h4couigum70n5hmg5acj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9J9-4WDTTNHVSwa2Kgq9Vx8Ax2DMXP9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38276936375-cdfr1vrpat33h4couigum70n5hmg5acj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "38276936375-bc6mckpa9iitr2h8u2jv5iom1euqkag1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Job.Posts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
